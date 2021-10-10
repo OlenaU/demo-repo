@@ -1,6 +1,9 @@
 h1 {
-    color: brown;
+    color:darkblue;
+    background-color: darkolivegreen;
+
 }
 p {
     font-weight: bold;
+    background-color: cadetblue;
 }
